@@ -16,4 +16,4 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 workflowSchedule:
-  uptime: "*/20 * * * *"
+  uptime: "*/10 * * * *"
