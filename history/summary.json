@@ -4,18 +4,19 @@
     "url": "https://swiftregex.com/",
     "icon": "https://icons.duckduckgo.com/ip3/swiftregex.com.ico",
     "slug": "swiftregex-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 294,
-    "timeDay": 192,
-    "timeWeek": 303,
-    "timeMonth": 294,
-    "timeYear": 294,
+    "time": 309,
+    "timeDay": 415,
+    "timeWeek": 337,
+    "timeMonth": 309,
+    "timeYear": 309,
     "dailyMinutesDown": {
+      "2023-05-28": 0,
       "2023-05-17": 17
     }
   }
