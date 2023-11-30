@@ -4,7 +4,7 @@
     "url": "https://swiftregex.com/",
     "icon": "https://icons.duckduckgo.com/ip3/swiftregex.com.ico",
     "slug": "swiftregex-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 233,
     "timeYear": 291,
     "dailyMinutesDown": {
+      "2023-11-30": 0,
       "2023-11-17": 17,
       "2023-11-07": 27,
       "2023-10-25": 31,
