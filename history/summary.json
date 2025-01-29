@@ -6,15 +6,15 @@
     "slug": "swiftregex-com",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "96.40%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.79%",
     "time": 252,
-    "timeDay": 266,
-    "timeWeek": 238,
-    "timeMonth": 247,
-    "timeYear": 257,
+    "timeDay": 315,
+    "timeWeek": 251,
+    "timeMonth": 251,
+    "timeYear": 258,
     "dailyMinutesDown": {
       "2025-01-27": 52,
       "2024-12-18": 18,
@@ -49,8 +49,7 @@
       "2024-03-13": 19,
       "2024-02-29": 41,
       "2024-02-12": 30,
-      "2024-02-08": 25,
-      "2024-01-30": 20
+      "2024-02-08": 25
     }
   }
 ]
