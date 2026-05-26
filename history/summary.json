@@ -4,16 +4,16 @@
     "url": "https://swiftregex.com/",
     "icon": "https://icons.duckduckgo.com/ip3/swiftregex.com.ico",
     "slug": "swiftregex-com",
-    "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.88%",
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "83.49%",
+    "uptimeWeek": "97.64%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.83%",
     "time": 293,
-    "timeDay": 137,
-    "timeWeek": 255,
-    "timeMonth": 251,
+    "timeDay": 261,
+    "timeWeek": 271,
+    "timeMonth": 254,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2025-10-04": 23,
@@ -26,7 +26,9 @@
       "2026-04-11": 72,
       "2026-04-13": 55,
       "2026-05-02": 57,
-      "2026-05-08": 84
+      "2026-05-08": 84,
+      "2026-05-26": 237,
+      "2026-05-25": 0
     }
   }
 ]
